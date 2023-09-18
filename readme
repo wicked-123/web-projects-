@@ -1,8 +1,2 @@
-#install inquirer and qr-image packages as
->npm install --save inquirer qr-image # in terminal 
-# note node js should be installed 
-#change the type into module in json file 
->npm init -y
-the run it using node index.js
 
 
